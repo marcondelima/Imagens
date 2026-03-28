@@ -8,4 +8,5 @@
 <img width="283" height="280" alt="ChatGPT Image 28 de mar" src="https://github.com/user-attachments/assets/a8d9e7d6-4d68-440d-a18d-4dfa778212ab" />
 <img width="283" height="280" alt="ChatGPT Image 28 de mar" src="https://github.com/user-attachments/assets/d4c187ba-78a1-47dc-9667-75388b51e311" />
 <img width="299" height="295" alt="ouro" src="https://github.com/user-attachments/assets/10edf9e0-11f1-4d18-b957-846f55b3d7ca" />
-<img width="1536" height="1024" alt="ChatGPT Image 28 de mar  de 2026, 10_54_27" src="https://github.com/user-attachments/assets/9b8106ad-3bce-4f41-aa2c-d08f3281e20f" />
+<img width="1536" height="1024" alt="ChatGPT Image 28 de mar  de 2026, 10_59_39" src="https://github.com/user-attachments/assets/4a1ed3e0-db63-488d-9a17-cd670925a83d" />
+
